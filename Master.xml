@@ -52,7 +52,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <item>
 <title>[COLOR lime]•[/COLOR][COLOR deepskyblue]  Deportes[/COLOR] [COLOR lightslategray] [/COLOR]</title>
 <link>http://ignorame</link><thumbnail>https://www.directv.com.ar/ofertas/img/Bg-ProductosServicios.png</thumbnail><fanart>Ibai/master/fanart.png </fanart>
-<externallink>https://raw.githubusercontent.com/alfilodeloimposible/superibai/master/listamaestra.xml</externallink>
+<externallink>https://raw.githubusercontent.com/alfilodeloimposible/gladiator/master/listamaestra.xml</externallink>
 </item>
 
 <item>
@@ -95,7 +95,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <item>
 <title>[COLOR lime]•[/COLOR][COLOR deepskyblue]  [B]Lista supermospi[/B] [/COLOR] [COLOR lightslategray]  [/COLOR]</title>
 <link>http://ignorame</link><thumbnail>>http://adryanlist.org/adryan/img/peliculas.png</thumbnail><fanart>Ibai/master/fanart.png </fanart>
-<externallink>https://raw.githubusercontent.com/alfilodeloimposible/superibai/master/listasupermospitv.xml</externallink>
+<externallink>https://raw.githubusercontent.com/alfilodeloimposible/gladiator/master/listasupermospitv.xml</externallink>
 </item>
 
 
@@ -104,7 +104,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <item>
 <title>[COLOR lime]•[/COLOR][COLOR deepskyblue]  [B]Peliculas[/B] [/COLOR] [COLOR lightslategray]  [/COLOR]</title>
 <link>http://ignorame</link><thumbnail>>http://adryanlist.org/adryan/img/peliculas.png</thumbnail><fanart>Ibai/master/fanart.png </fanart>
-<externallink>https://raw.githubusercontent.com/alfilodeloimposible/superibai/master/peliculas.xml</externallink>
+<externallink>https://raw.githubusercontent.com/alfilodeloimposible/gladiator/master/peliculas.xml</externallink>
 </item>
 
 
@@ -112,7 +112,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <title>[COLOR lime]•[/COLOR][COLOR deepskyblue]  [B]Series de TV[/B] [/COLOR] [COLOR lightslategray] [/COLOR]</title>
 <link>http://ignorame</link><thumbnail>http://4.bp.blogspot.com/-v0OLlbDruf4/UnbP1nJ3CLI/AAAAAAABICE/kxHC71MF8Us/s1600/0AFA4695B.png</thumbnail>
 	<fanart>Ibai/master/fanart.png </fanart>
-<externallink>https://raw.githubusercontent.com/alfilodeloimposible/superibai/master/seriesdetv.xml</externallink>
+<externallink>https://raw.githubusercontent.com/alfilodeloimposible/gladiator/master/seriesdetv.xml</externallink>
 </item>
 
 
@@ -120,7 +120,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <item>
 <title>[COLOR lime]•[/COLOR][COLOR deepskyblue]  España[/COLOR] </title>
 <link>http://ignorame</link><thumbnail>http://www.mixeroshd.com/img/espa%C3%B1a.png</thumbnail><fanart>Ibai/master/fanart.png </fanart>
-<externallink>https://raw.githubusercontent.com/alfilodeloimposible/superibai/master/listamaestraEspa%C3%B1a.xml</externallink>
+<externallink>https://raw.githubusercontent.com/alfilodeloimposible/gladiator/master/listamaestraEspa%C3%B1a.xml</externallink>
 </item>
 
 
@@ -156,7 +156,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <item>
 		<title>[COLOR lime]•[/COLOR][COLOR skyblue]  [B]J.H.G. MASTER[/B][/COLOR]  [COLOR lightslategray] [/COLOR]</title>
 		<link>http://ignorame</link><thumbnail>http://adryanlist.org/adryan/img/jhg.png</thumbnail> 
-		<externallink>https://raw.githubusercontent.com/alfilodeloimposible/superibai/master/jhgmasterindex.xml</externallink><fanart>Ibai/master/fanart.png </fanart>
+		<externallink>https://raw.githubusercontent.com/alfilodeloimposible/gladiator/master/jhgmasterindex.xml</externallink><fanart>Ibai/master/fanart.png </fanart>
 		</item>
 
  <item>
