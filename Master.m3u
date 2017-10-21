@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+ 
+<item>
+<title> [COLOR gold]*[/COLOR][COLOR gainsborogreen][B]//[COLOR salmon] Actualizado el [B]21[/B] de Octubre de 2017 [/COLOR]// [/COLOR] </title>	
+<link>$doregex[makelist]</link>
+</item>
+ 
+<item>
+<title>
+DMCA: Este Addon sólo contiene enlaces e incrustaciones a canales de TV de sitios de terceros que están disponibles gratuitamente en Internet. 
+No estamos afiliados de ninguna manera con los canales difundidos ni somos responsables de su contenido. 
+Todo el contenido es copyright de sus respectivos propietarios.</title>
+<link>http://ignorame</link>
+<externallink></externallink>
+</item>
+
+
+
+<!-- Simplemente insertar la url del Acestream en url-->
+
+<!-- Los canales están extraidos de arenavision.in -->
+
+
+<item>
+<title>[COLOR gold]--*--[/COLOR][COLOR gainsboro]La Liga[COLOR=olivedrab][B][I] Levante-Getafe[/I][/B][/COLOR][COLOR gainsboro]   21/10/2017 13:00 [/COLOR]</title>
+<link>plugin://program.plexus/?mode=1&amp;url=acestream://1b2412fa1adbbef5323c0df3490f03a3aea9cf7b&amp;name=1</link>
+<thumbnail>https://www.soccerex.com/media/4603/laliga_logo_h_2015-01color-blanco.jpg</thumbnail>
+<fanart>https://userscontent2.emaze.com/images/8a7b3ddf-05fa-47e1-b34b-ffc9db9955c8/1205e72dfa3725e97bc10039d635b8bc.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]--*--[/COLOR][COLOR gainsboro]La Liga[COLOR=olivedrab][B][I] Real Betis-Alavés[/I][/B][/COLOR][COLOR gainsboro]   21/10/2017 16:15 [/COLOR]</title>
+<link>plugin://program.plexus/?mode=1&amp;url=acestream://1b2412fa1adbbef5323c0df3490f03a3aea9cf7b&amp;name=1</link>
+<thumbnail>https://www.soccerex.com/media/4603/laliga_logo_h_2015-01color-blanco.jpg</thumbnail>
+<fanart>https://userscontent2.emaze.com/images/8a7b3ddf-05fa-47e1-b34b-ffc9db9955c8/1205e72dfa3725e97bc10039d635b8bc.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR gold]--*--[/COLOR][COLOR gainsboro]La Liga[COLOR=olivedrab][B][I] Valencia-Sevilla[/I][/B][/COLOR][COLOR gainsboro]   21/10/2017 18:30 [/COLOR]</title>
+<link>plugin://program.plexus/?mode=1&amp;url=acestream://1b2412fa1adbbef5323c0df3490f03a3aea9cf7b&amp;name=1</link>
+<thumbnail>https://www.soccerex.com/media/4603/laliga_logo_h_2015-01color-blanco.jpg</thumbnail>
+<fanart>https://userscontent2.emaze.com/images/8a7b3ddf-05fa-47e1-b34b-ffc9db9955c8/1205e72dfa3725e97bc10039d635b8bc.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]--*--[/COLOR][COLOR gainsboro]La Liga[COLOR=olivedrab][B][I] Barcelona-Málaga[/I][/B][/COLOR][COLOR gainsboro]   21/10/2017 20:45 [/COLOR]</title>
+<link>plugin://program.plexus/?mode=1&amp;url=acestream://1b2412fa1adbbef5323c0df3490f03a3aea9cf7b&amp;name=1</link>
+<thumbnail>https://www.soccerex.com/media/4603/laliga_logo_h_2015-01color-blanco.jpg</thumbnail>
+<fanart>https://userscontent2.emaze.com/images/8a7b3ddf-05fa-47e1-b34b-ffc9db9955c8/1205e72dfa3725e97bc10039d635b8bc.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]--*--[/COLOR][COLOR gainsboro]La Liga[COLOR=olivedrab][B][I] Celta-Atletico De Madrid[/I][/B][/COLOR][COLOR gainsboro]   22/10/2017  16:15[/COLOR]</title>
+<link>plugin://program.plexus/?mode=1&amp;url=acestream://1b2412fa1adbbef5323c0df3490f03a3aea9cf7b&amp;name=1</link>
+<thumbnail>https://www.soccerex.com/media/4603/laliga_logo_h_2015-01color-blanco.jpg</thumbnail>
+<fanart>https://userscontent2.emaze.com/images/8a7b3ddf-05fa-47e1-b34b-ffc9db9955c8/1205e72dfa3725e97bc10039d635b8bc.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR gold]--*--[/COLOR][COLOR gainsboro]La Liga[COLOR=olivedrab][B][I] Leganes-Athletic Club Bilbao[/I][/B][/COLOR][COLOR gainsboro]   22/10/2017  18:30[/COLOR]</title>
+<link>plugin://program.plexus/?mode=1&amp;url=acestream://1b2412fa1adbbef5323c0df3490f03a3aea9cf7b&amp;name=1</link>
+<thumbnail>https://www.soccerex.com/media/4603/laliga_logo_h_2015-01color-blanco.jpg</thumbnail>
+<fanart>https://userscontent2.emaze.com/images/8a7b3ddf-05fa-47e1-b34b-ffc9db9955c8/1205e72dfa3725e97bc10039d635b8bc.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]--*--[/COLOR][COLOR gainsboro]La Liga[COLOR=olivedrab][B][I] Real Madrid-Eibar[/I][/B][/COLOR][COLOR gainsboro]   22/10/2017  20:45[/COLOR]</title>
+<link>plugin://program.plexus/?mode=1&amp;url=acestream://42ad40f00133cfa5dce4b38894da69b016396ed0&amp;name=1</link>
+<thumbnail>https://www.soccerex.com/media/4603/laliga_logo_h_2015-01color-blanco.jpg</thumbnail>
+<fanart>https://userscontent2.emaze.com/images/8a7b3ddf-05fa-47e1-b34b-ffc9db9955c8/1205e72dfa3725e97bc10039d635b8bc.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]--*--[/COLOR][COLOR darkturquoise]La Liga[COLOR=olivedrab][B][I] Real Madrid-Eibar[COLOR blanchedalmond] (opción 2)[/COLOR][/I][/B][/COLOR][COLOR darkturquoise]   22/10/2017  20:45[/COLOR]</title>
+<link>plugin://program.plexus/?mode=1&amp;url=acestream://1b2412fa1adbbef5323c0df3490f03a3aea9cf7b&amp;name=1</link>
+<thumbnail>https://www.soccerex.com/media/4603/laliga_logo_h_2015-01color-blanco.jpg</thumbnail>
+<fanart>https://userscontent2.emaze.com/images/8a7b3ddf-05fa-47e1-b34b-ffc9db9955c8/1205e72dfa3725e97bc10039d635b8bc.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]--*--[/COLOR][COLOR gainsboro]La Liga[COLOR=olivedrab][B][I]  Real Sociedad-Español[/I][/B][/COLOR][COLOR gainsboro]   23/10/2017  20:00 [/COLOR]</title>
+<link>plugin://program.plexus/?mode=1&amp;url=acestream://1b2412fa1adbbef5323c0df3490f03a3aea9cf7b&amp;name=1</link>
+<thumbnail>https://www.soccerex.com/media/4603/laliga_logo_h_2015-01color-blanco.jpg</thumbnail>
+<fanart>https://userscontent2.emaze.com/images/8a7b3ddf-05fa-47e1-b34b-ffc9db9955c8/1205e72dfa3725e97bc10039d635b8bc.jpg</fanart>
+</item>
+
+
+
+<!-- Simplemente insertar la url del Acestream en url-->
+
+<!-- Los canales están extraidos de arenavision.in -->
+<item>
+<title> [COLOR gold]*******************************[/COLOR] </title>	
+<link>$doregex[makelist]</link>
+</item>
+
+<item>
+<title>[COLOR gold]*[/COLOR][COLOR seashell]ACB[/COLOR][COLOR gold]**Activo sólo en eventos** [/COLOR]</title>
+<link>http://ignorame</link><thumbnail>http://www.somosbasket.com/wp-content/uploads/2017/03/acb_logo1-1.jpg</thumbnail><fanart>http://www.somosbasket.com/wp-content/uploads/2017/03/acb_logo1-1.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/acb.xml</externallink>
+</item>
+
+
+
+<!-- Simplemente insertar la url del Acestream en url-->
+
+<!-- Los canales están extraidos de arenavision.in -->
+
+
+<item>
+<title>[COLOR gold]*[/COLOR][COLOR seashell]Euroliga Basket[/COLOR][COLOR gold]**Activo sólo en eventos** [/COLOR]</title>
+<link>http://ignorame</link><thumbnail>http://losojosdeltigre.es/recursos/ligas/logoeuroliga.png</thumbnail><fanart>https://lataulataronja.es/wp-content/uploads/2015/11/logo-euroliga-300x300.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/euroligbasket.xml</externallink>
+</item>
+
+
+
+<!-- Simplemente insertar la url del Acestream en url-->
+
+<!-- Los canales están extraidos de arenavision.in -->
+
+
+<item>
+<title>[COLOR gold]*[/COLOR][COLOR seashell]Europa League[/COLOR][COLOR gold]**Activo sólo en eventos** [/COLOR] </title>
+<link>http://ignorame</link><thumbnail>https://ugc.kn3.net/i/origin/http://blog.okapuestas.es/wp-content/uploads/2012/08/UEFA-europa-league-logo.png</thumbnail><fanart>http://www.apuestasfutbol.com/wp-content/uploads/2015/02/europa-league.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/acestream.xml</externallink>
+</item>
+
+
+
+
+
+
+
+<item>
+<title>[COLOR gold]*[/COLOR][COLOR mediumpurple] UEFA CHAMPIONS LEAGE [/COLOR][COLOR gold]**Activo sólo en eventos** [/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<SetViewMode>55</SetViewMode>
+<title>[COLOR lightgreen][makelist.param1] [COLOR silver] [makelist.param2]  [COLOR skyblue] [makelist.param4][/COLOR][/COLOR][/COLOR]  [COLOR deepskyblue] [makelist.param5][/COLOR] </title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Adryanlist+[makelist.param4]</link>
+			<regex>
+			<name>hash</name> 
+			<expres>this.loadPlayer\("(.*?)"</expres>
+			<page>https://arenavision.us/[makelist.param5]</page>
+			<referer>https://arenavision.us/</referer>
+			<setcookie>beget=begetok</setcookie>
+			</regex>
+			
+			<thumbnail>https://www.soccerex.com/media/4603/laliga_logo_h_2015-01color-blanco.jpg</thumbnail>
+<fanart>https://userscontent2.emaze.com/images/8a7b3ddf-05fa-47e1-b34b-ffc9db9955c8/1205e72dfa3725e97bc10039d635b8bc.jpg</fanart>
+</item>	
+]]></listrepeat>
+<expres><![CDATA[230px">(.*?)<[\w\W\s]{0,50}px">(.*?)CEST[\w\W\s]{0,53}px">(.*?)<[\w\W\s]{0,53}UEFA CHAMPIONS LEAGUE[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px">([0-9]+)]]></expres>
+<page>https://arenavision.us/iguide</page>
+<Agent>Mozilla</Agent>
+<referer>https://arenavision.us/iguide</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+
+<thumbnail>http://orgulloso.es/wp-content/uploads/2015/11/Resultados-jornada-4-de-la-Champions-League-2015-2016.jpg</thumbnail>
+<fanart>http://orgulloso.es/wp-content/uploads/2015/11/Resultados-jornada-4-de-la-Champions-League-2015-2016.jpg</fanart>
+</item>
+
+
+
+<!--En externallink ponemos la dirección donde se encuientra nuestra lista-->
+
+
+
+<item>
+<title> [COLOR gold]*******************************[/COLOR] </title>	
+<link>$doregex[makelist]</link>
+</item>
+
+
+<item>
+<title>[COLOR gold]*[/COLOR][COLOR green]Movistar + (opción 1)[/COLOR] </title>
+<link>http://ignorame</link><thumbnail>http://imagenpng.com/wp-content/uploads/2015/03/movistar_logo_sombra.png</thumbnail><fanart>http://practicopedia.lainformacion.com/files/movistar_4_0.JPG</fanart>
+<externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/digital.xml</externallink>
+</item>
+
+<item>
+<title>[COLOR gold]*[/COLOR][COLOR goldenrod]Movistar + (opción 2)[/COLOR] </title>
+<link>http://ignorame</link>
+<thumbnail>http://imagenpng.com/wp-content/uploads/2015/03/movistar_logo_sombra.png</thumbnail>
+<fanart>http://practicopedia.lainformacion.com/files/movistar_4_0.JPG</fanart>
+<externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/digital2.xml</externallink>
+</item>
+
+
+<item>
+<title>[COLOR gold]*[/COLOR][COLOR blue]Movistar + (opción 3)[/COLOR] </title>
+<link>http://ignorame</link>
+<thumbnail>http://imagenpng.com/wp-content/uploads/2015/03/movistar_logo_sombra.png</thumbnail>
+<fanart>http://practicopedia.lainformacion.com/files/movistar_4_0.JPG</fanart>
+<externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/digital3.xml</externallink>
+</item>
+
+<item>
+<title> [COLOR gold]*******************************[/COLOR] </title>	
+<link>$doregex[makelist]</link>
+</item>
+
+
+<item>
+<title>[COLOR gold]*[/COLOR][COLOR turquoise]  [B]La Liga[/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<item><title>[COLOR lightgreen][makelist.param1] [COLOR silver] [makelist.param2]  [COLOR skyblue] [makelist.param4][/COLOR][/COLOR][/COLOR]  [COLOR deepskyblue] [makelist.param5][/COLOR] </title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Adryanlist+[makelist.param4]</link>
+			<regex>
+			<name>hash</name> 
+			<expres>this.loadPlayer\("(.*?)"</expres>
+			<page>http://arenavision2017.tk/$doregex[canal]</page>
+			<referer>http://arenavision2017.tk/</referer>
+			<setcookie>beget=begetok</setcookie>
+			</regex>
+			<regex>
+			<name>canal</name> 
+			<expres>$pyFunction:'[makelist.param5]'.replace('>4','04').replace('>5','05').replace('>6','06').replace('>7','07').replace('>8','08').replace('>9','09').replace('>10','10').replace('>11','11').replace('>12','12').replace('>13','13').replace('>14','14').replace('>15','15').replace('>16','16').replace('>17','17').replace('>18','18').replace('>19','19').replace('>20','20').replace('>21','21').replace('>22','22').replace('>23','23').replace('>24','24').replace('>25','25').replace('>26','26').replace('>27','27').replace('>28','28').replace('>29','29').replace('>30','30').replace('>31','31').replace('>32','32').replace('>33','33').replace('>34','34').replace('>35','35').replace('>1','01').replace('>2','02').replace('>3','03')</expres>
+			<page></page>
+			</regex>
+			
+			<thumbnail>https://www.soccerex.com/media/4603/laliga_logo_h_2015-01color-blanco.jpg</thumbnail>
+<fanart>https://userscontent2.emaze.com/images/8a7b3ddf-05fa-47e1-b34b-ffc9db9955c8/1205e72dfa3725e97bc10039d635b8bc.jpg</fanart>
+
+
+
+</item>	
+]]></listrepeat>
+<expres><![CDATA[230px">(.*?)<[\w\W\s]{0,50}px">(.*?)CEST[\w\W\s]{0,53}px">(.*?)<[\w\W\s]{0,53}SPANISH LA LIGA[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px">([0-9]+)]]></expres>
+<page>http://arenavision2017.tk/iguide</page>
+<Agent>Mozilla</Agent>
+<referer>http://arenavision2017.tk/iguide</referer>
+<setcookie>beget=begetok</setcookie>
+</regex><thumbnail>https://www.soccerex.com/media/4603/laliga_logo_h_2015-01color-blanco.jpg</thumbnail>
+	<fanart>https://userscontent2.emaze.com/images/8a7b3ddf-05fa-47e1-b34b-ffc9db9955c8/1205e72dfa3725e97bc10039d635b8bc.jpg</fanart>
+	
+
+</item>
+
+
+
+
+
+
+
+<item>
+            <title>[COLOR gold]*[/COLOR][COLOR papayawhip]BEIN LA LIGA Y PARTIDAZO[/COLOR][COLOR papayawhip] todos los partidos del día[/COLOR]</title>
+            <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Picapau1</link>
+            <regex>
+            <name>hash</name>
+            <expres>this.loadPlayer\("(.*?)"</expres>
+            <page>http://arenavision2017.tk/node/8</page>
+            <referer>http://www.arenavision.ru</referer>
+            <setcookie>beget=begetok</setcookie>
+            </regex>             
+            <thumbnail>http://statics.laliga.es/img/campo-logo-v4.jpg</thumbnail>
+            </item>
+ 
+ 
+
+
+            <item>
+             <title>[COLOR gold]*[/COLOR][COLOR papayawhip]BEIN LA LIGA Y PARTIDAZO[/COLOR][COLOR palevioletred] Opción 2[/COLOR]</title>
+            <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Picapau2</link>
+            <regex>
+            <name>hash</name>
+            <expres>this.loadPlayer\("(.*?)"</expres>
+            <page>http://arenavision2017.tk/node/10</page>
+            <referer>http://www.arenavision.ru</referer>
+            <setcookie>beget=begetok</setcookie>
+            </regex>
+            <thumbnail>http://statics.laliga.es/img/campo-logo-v4.jpg</thumbnail>
+            </item>
+			
+
+
+
+<item>
+<title> [COLOR gold]*******************************[/COLOR] </title>	
+<link>$doregex[makelist]</link>
+</item>
+
+
+
+
+<item>
+<title>[COLOR gold]*[/COLOR][COLOR lime][B]Test 1[/B][/COLOR] </title>
+<link>http://ignorame</link><thumbnail>https://www.soccerex.com/media/4603/laliga_logo_h_2015-01color-blanco.jpg</thumbnail><fanart>https://userscontent2.emaze.com/images/8a7b3ddf-05fa-47e1-b34b-ffc9db9955c8/1205e72dfa3725e97bc10039d635b8bc.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/liga.xml</externallink>
+</item>
+
+
+
+
+<item>
+<title>[COLOR gold]*[/COLOR][COLOR golden] Peliculas[/COLOR] </title>
+<link>http://ignorame</link><thumbnail>http://3.bp.blogspot.com/-nTyqSSBdeDo/TujJSjNyYuI/AAAAAAAACbU/IqffXgbfpZo/s1600/megapost_peliculas.png</thumbnail><fanart>http://www.electometro.es/wp-content/uploads/2017/03/peliculas.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/taquilla.xml</externallink>
+</item>
+<item>
+
+
+
+<item>
+<title>[COLOR gold]*[/COLOR][COLOR red]Audiolibros---VOZ HUMANA---[/COLOR]</title>
+<link>http://ignorame</link><thumbnail>http://3.bp.blogspot.com/-gsaHnVW_z2s/VlOKIGGaBfI/AAAAAAAAAVg/Ve33LOOWC2Q/s1600/5d9a156dfb609b4132dd908c903b477a.png</thumbnail><fanart>https://static-1.ivooxcdn.com/canales/1/2/9/3/1861471443921_XXL.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/audiolibros.mp3</externallink>
+</item>
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
