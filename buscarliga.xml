@@ -1,11 +1,4 @@
-
-
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-
-
-
-
-
 <item>
 <title>[COLOR lime]•[/COLOR][COLOR aquamarine]  [B]FUTBOL[/B][/COLOR] [COLOR lightyellow](Elige tu Liga) [/COLOR]</title>
 <link>$doregex[makelist]</link>
