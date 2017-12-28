@@ -60,9 +60,9 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR lime]•[/COLOR][COLOR deepskyblue]  [B]Peliculas[/B] [/COLOR] [COLOR lightslategray]  [/COLOR]</title>
+<title>[COLOR lime]•[/COLOR][COLOR green]  [B]Plexux[/B] [/COLOR] [COLOR lightslategray]  [/COLOR]</title>
 <link>http://ignorame</link><thumbnail>>http://adryanlist.org/adryan/img/peliculas.png</thumbnail><fanart>Ibai/master/fanart.png </fanart>
-<externallink>https://raw.githubusercontent.com/alfilodeloimposible/gladiator/master/peliculas.xml</externallink>
+<externallink>https://raw.githubusercontent.com/alfilodeloimposible/gladiator/master/plexus.xml</externallink>
 </item>
 
 
