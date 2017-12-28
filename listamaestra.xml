@@ -1,131 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SetViewMode>55</SetViewMode>
 
-    
-    
-	
-  
-			
-			
-			 
-		
-			
-		
-		
-		
-		
-		
-		<item><title>[COLOR skyblue]                           [B][ Deportes ADRYANLIST ] [/B] [/COLOR]</title><link>http://ignorame.ime</link><thumbnail>http://autismomadrid.es/wp-content/uploads/2015/06/Deporte-sin-barreras.jpg</thumbnail></item>
-				
- 
-
-			
- <item>
-<title> [COLOR lime]•[/COLOR]    [COLOR deepskyblue][B]ACE[/COLOR][COLOR skyblue]STREAMS [/COLOR][/B]  [COLOR lightslategray] [I]Torrents Channels / Plexus Requerido[/I][/COLOR]</title>
-<link>$doregex[makelist]</link>
-<externallink>https://raw.githubusercontent.com/alfilodeloimposible/gladiator/master/Plexus.xml</externallink>
-<thumbnail>http://autismomadrid.es/wp-content/uploads/2015/06/Deporte-sin-barreras.jpg</thumbnail>
+<item>
+<title>[COLOR lime][B][  ][/B][/COLOR]  [COLOR lightgreen][B]BUSCAR  LIGA[/B] [/COLOR][COLOR skyblue] [/COLOR] </title>
+<link>http://ignorame</link><thumbnail>http://3.bp.blogspot.com/-nTyqSSBdeDo/TujJSjNyYuI/AAAAAAAACbU/IqffXgbfpZo/s1600/megapost_peliculas.png</thumbnail><fanart>http://www.electometro.es/wp-content/uploads/2017/03/peliculas.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/alfilodeloimposible/gladiator/master/listamaestra.xml</externallink>
 </item>
 
+<item>
+<title>[COLOR lime][B][  ][/B][/COLOR]  [COLOR lightgreen][B]BUSCA TU CANAL POR FECHA[/B] [/COLOR][COLOR skyblue] [/COLOR] </title>
+<link>http://ignorame</link><thumbnail>http://dadosdefutbol.com/wp-content/uploads/2016/08/otros-deportes.png</thumbnail><fanart>https://userscontent2.emaze.com/images/8a7b3ddf-05fa-47e1-b34b-ffc9db9955c8/1205e72dfa3725e97bc10039d635b8bc.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/eventosporfechas.xml</externallink>
+</item>
 
-<iem>
-<title> [COLOR lime]•[/COLOR]    [COLOR skyblue][B]STREAMM[/COLOR][COLOR skyblue]HD [/COLOR][/B]  [COLOR lightslategray] [I] [/I][/COLOR]</title>
-<link>$doregex[makelist]</link>
-
-
-<regex>
-            <name>makelist</name>
-<listrepeat><![CDATA[
-<title>[makelist.param1]  - [makelist.param3] </title>
-<link>$doregex[link]</link>
-<thumbnail>http://autismomadrid.es/wp-content/uploads/2015/06/Deporte-sin-barreras.jpg</thumbnail>
- ]]></listrepeat>
-            <expres><![CDATA[td>(.*?)<[\w\W\s]{0,30}href="(.*?)"[\w\W\s]{0,12}blank">(.*?)<]]></expres>
-            <page>http://www.streamm.eu/livesports.html</page>
-             <cookieJar></cookieJar>
-</regex>
-
-<regex>
-            <name>link</name>
-            <expres>["|\'](.*m3u8.*?)["|\']</expres>
-            <page>$doregex[link2]</page>
-             <cookieJar></cookieJar>
-</regex>
-
-<regex>
-            <name>link2</name>
-            <expres><![CDATA[iframe src="(.*?)"]]></expres>
-            <page>[makelist.param2]</page>
-             <cookieJar></cookieJar>
-</regex>
-<thumbnail>http://autismomadrid.es/wp-content/uploads/2015/06/Deporte-sin-barreras.jpg</thumbnail></item>
-
+<item>
+<title>[COLOR lime][B][  ][/B][/COLOR]  [COLOR lightgreen][B]BUSCA TU CANAL ACESTREAM[/B] [/COLOR][COLOR skyblue] [/COLOR] </title>
+<link>http://ignorame</link><thumbnail>http://dadosdefutbol.com/wp-content/uploads/2016/08/otros-deportes.png</thumbnail><fanart>https://userscontent2.emaze.com/images/8a7b3ddf-05fa-47e1-b34b-ffc9db9955c8/1205e72dfa3725e97bc10039d635b8bc.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/alfilodeloimposible/gladiator/master/buscastreams.xml</externallink>
+</item>
 
 
 <item>
-
-<title> [COLOR lime]•[/COLOR]    [COLOR deepskyblue][B]STREAMS[/COLOR][COLOR skyblue]HD [/COLOR][/B]  [COLOR lightslategray] [I] [/I][/COLOR]</title>
-
-<link>$doregex[makelist]</link>
-
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-   <title>    ..  [makelist.param2] </title>
-   <link>$doregex[get-id]</link>
-<regex>
-<name>get-id</name>
-<expres>file:"(.*?)"</expres>
-<page>$doregex[get-stream]</page>
-</regex>
-<regex>
-<name>get-stream</name>
-<expres>iframe src="(.*?)"</expres>
-<page>$doregex[get-page]</page>
-</regex>
-<regex>
-<name>get-page</name>
-<expres>videoiframe"\ssrc="(.*?)"</expres>
-<page>http://www.streamhd.eu[makelist.param1]</page>
-</regex>
-<thumbnail>http://autismomadrid.es/wp-content/uploads/2015/06/Deporte-sin-barreras.jpg</thumbnail>
-]]></listrepeat>
-<expres><![CDATA[eventsmall.*?href="(.*?)">(.*?)<]]></expres>
-<page>http://www.streamhd.eu/</page>
-</regex>
+<title>[COLOR lime][B][  ][/B][/COLOR]  [COLOR lightgreen][B]BUSCAR  COMPETICION[/B] [/COLOR][COLOR skyblue] [/COLOR] </title>
+<link>http://ignorame</link><thumbnail>http://dadosdefutbol.com/wp-content/uploads/2016/08/otros-deportes.png</thumbnail><fanart>https://userscontent2.emaze.com/images/8a7b3ddf-05fa-47e1-b34b-ffc9db9955c8/1205e72dfa3725e97bc10039d635b8bc.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/eventosporcompeticion.xml</externallink>
 </item>
 
 
 
-
-
-
- 
-<item>  
-<title> [COLOR lime]•[/COLOR]    [COLOR deepskyblue][B]WIZ[/COLOR][COLOR skyblue]HD [/COLOR][/B]  [COLOR lightslategray] [I] Agenda | Schedule* [/I][/COLOR]</title>
-<link>$doregex[makelist2]</link>
-
-
-
-<regex>
-<name>makelist2</name>
-<listrepeat><![CDATA[
-   <title>[COLOR lightblue] [B] [makelist2.param1] [/B]	[COLOR deepskyblue]  [makelist2.param3]    [/COLOR][/COLOR]   </title>
-<link>$doregex[makelist]</link>
- 
-]]></listrepeat>
-<expres>sports'>(.*?)<[\w\W\s]{0,270}href='(.*?)'[\w\W\s]{0,50}right-margin'>(.*?)<</expres>
-<page>http://wizhdsports.is/embed_list.php</page>
-</regex>
-
-
-
-
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-   <title>[makelist.param1] - [COLOR deepskyblue]  [makelist2.param3] / [COLOR lightblue] [B] [makelist2.param1] [/B]   [/COLOR][/COLOR]   </title>
-<link>$doregex[url]</link>
- 
-]]></listrepeat>
-<expres>wizhdsports.is\/live\/stream(.*?).html</expres>
-<page>[makelist2.param2]</page>
-</regex
+ <item>
+ <title>[COLOR lime][B][  ][/B][/COLOR]  [COLOR lightgreen][B]LIGA,CHAMPIONS,COPA DEL REY,NBA,BUNDESLIGA,SERIE A.......[/B] [/COLOR][COLOR skyblue] [/COLOR] </title>
+<link>http://ignorame</link>
+<thumbnail>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/thumbnail.png</thumbnail>
+<fanart>http://practicopedia.lainformacion.com/files/movistar_4_0.JPG</fanart>
+<externallink>https://raw.githubusercontent.com/alfilodeloimposible/digital/master/pruebasacestream.xml</externallink>
+</item> 
