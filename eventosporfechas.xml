@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<item>
+<title>[COLORmintcream]****[/COLOR][COLOR tan]  [B]ELIGE LA FECHA DE TU EVENTO[/B][/COLOR][COLORmintcream]****[/COLOR] </title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<SetViewMode>55</SetViewMode>
+<title>[COLOR lightgreen][makelist.param1] [COLOR silver] [makelist.param2]  [COLOR skyblue] [makelist.param4][/COLOR][/COLOR][/COLOR]  [COLOR deepskyblue] [makelist.param5][/COLOR] </title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AlfonStreams>+[makelist.param4]</link>
+			<regex>
+			<name>hash</name>
+			<expres>this.loadPlayer\("(.*?)"</expres>
+			<page>http://arenavision2017.tk/$doregex[canal]</page>
+			<referer>http://arenavision2017.tk/</referer>
+			<setcookie>beget=begetok</setcookie>
+			</regex>
+			<regex>
+			<name>canal</name>
+			<expres>$pyFunction:'[makelist.param5]'.replace('>4','04').replace('>5','05').replace('>6','06').replace('>7','07').replace('>8','08').replace('>9','09').replace('>10','10').replace('>11','11').replace('>12','12').replace('>13','13').replace('>14','14').replace('>15','15').replace('>16','16').replace('>17','17').replace('>18','18').replace('>19','19').replace('>20','20').replace('>21','21').replace('>22','22').replace('>23','23').replace('>24','24').replace('>25','25').replace('>26','26').replace('>27','27').replace('>28','28').replace('>29','29').replace('>30','30').replace('>31','31').replace('>32','32').replace('>33','33').replace('>34','34').replace('>35','35').replace('>1','01').replace('>2','02').replace('>3','03')</expres>
+			<page></page>
+			</regex>
+
+			<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+]]></listrepeat>
+<expres><![CDATA[style13">$doregex[select]<[\w\W\s]{0,32}">(.*?)CET[\w\W\s]{0,35}">(.*?)<[\w\W\s]{0,32}">(.*?)[\w\W\s]{0,32}">(.*?)<[\w\W\s]{0,32}"(>[0-9]+)]]></expres>
+<page>http://arenavision2017.tk/iguide</page>
+<Agent>Mozilla</Agent>
+<referer>http://arenavision2017.tk/iguide</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+
+<regex>
+<name>select</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import xbmcgui
+   dialog = xbmcgui.Dialog()
+   ret = dialog.select('Elige una Fecha', ['28/12/2017','29/12/2017','30/12/2017','31/12/2017','01/01/2018','02/01/2018','03/01/2018','04/01/2018','05/01/2018','06/01/2018','07/01/2018','08/01/2018','09/01/2018','10/01/2018','11/01/2018','12/01/2018','13/01/2018','14/01/2018','15/01/2018'])
+   lists =['28/12/2017','29/12/2017','30/12/2017','31/12/2017','01/01/2018','02/01/2018','03/01/2018','04/01/2018','05/01/2018','06/01/2018','07/01/2018','08/01/2018','09/01/2018','10/01/2018','11/01/2018','12/01/2018','13/01/2018','14/01/2018','15/01/2018']
+   return lists[ret]
+]]></expres>
+<page></page>
+</regex>
+
+<thumbnail>http://estaticos.sport.es/resources/jpg/0/1/1473422022710.jpg</thumbnail>
+	<fanart>http://estaticos.sport.es/resources/jpg/0/1/1473422022710.jpg</fanart>
+	
+
+</item>
+
+<tem>
+<title>[COLORmintcream]                            *[/COLOR][COLOR tan]  [B]28/12/2017[/B][/COLOR][COLORmintcream][/COLOR] </title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<SetViewMode>55</SetViewMode>
+<title>[COLOR lightgreen][makelist.param1] [COLOR silver] [makelist.param2]  [COLOR skyblue] [makelist.param4][/COLOR][/COLOR][/COLOR]  [COLOR deepskyblue] [makelist.param5][/COLOR] </title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AlfonStreams>+[makelist.param4]</link>
+			<regex>
+			<name>hash</name>
+			<expres>this.loadPlayer\("(.*?)"</expres>
+			<page>http://arenavision2017.tk/$doregex[canal]</page>
+			<referer>http://arenavision2017.tk/</referer>
+			<setcookie>beget=begetok</setcookie>
+			</regex>
+			<regex>
+			<name>canal</name>
+			<expres>$pyFunction:'[makelist.param5]'.replace('>4','04').replace('>5','05').replace('>6','06').replace('>7','07').replace('>8','08').replace('>9','09').replace('>10','10').replace('>11','11').replace('>12','12').replace('>13','13').replace('>14','14').replace('>15','15').replace('>16','16').replace('>17','17').replace('>18','18').replace('>19','19').replace('>20','20').replace('>21','21').replace('>22','22').replace('>23','23').replace('>24','24').replace('>25','25').replace('>26','26').replace('>27','27').replace('>28','28').replace('>29','29').replace('>30','30').replace('>31','31').replace('>32','32').replace('>33','33').replace('>34','34').replace('>35','35').replace('>1','01').replace('>2','02').replace('>3','03')</expres>
+			<page></page>
+			</regex>
+
+			<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+]]></listrepeat>
+<expres><![CDATA[style13">28/12/2017<[\w\W\s]{0,32}">(.*?)CET[\w\W\s]{0,35}">(.*?)<[\w\W\s]{0,32}">(.*?)[\w\W\s]{0,32}">(.*?)<[\w\W\s]{0,32}"(>[0-9]+)]]></expres>
+<page>http://arenavision2017.tk/iguide</page>
+<Agent>Mozilla</Agent>
+<referer>http://arenavision2017.tk/iguide</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+<thumbnail>http://estaticos.sport.es/resources/jpg/0/1/1473422022710.jpg</thumbnail>
+	<fanart>http://estaticos.sport.es/resources/jpg/0/1/1473422022710.jpg</fanart>
+	
+
+</item>
+
+
